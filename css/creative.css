@@ -64,6 +64,12 @@ p {
     color: rgba(255,255,255,.7);
 }
 
+.text-dark {
+    color: rgba(0,0,0,.5);
+}
+
+
+
 section {
     padding: 100px 0;
 }
@@ -488,4 +494,15 @@ vertical-align: center;
 height: auto;
 width: 110px;
 padding-top: 6px;
+}
+
+.background
+{
+    background-color: #40ade5;
+}
+
+.celebrate
+{
+    font-family: 'Apple Chancery';
+    font-size: 30px;
 }
